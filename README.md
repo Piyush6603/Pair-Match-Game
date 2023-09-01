@@ -2,7 +2,9 @@
 
 Welcome to the JavaScript Pair Matching Game repository! This interactive web game challenges your memory as you uncover cards to find matching pairs. 🎮
 
-![Game Screenshot](game-screenshot.png)
+
+![Screenshot 2023-09-01 223430](https://github.com/Piyush6603/Pair-Match-Game/assets/101010704/61f06cd0-9b87-4082-93b8-b5ce0b06ff94)
+
 
 ## How to Play 📝
 
